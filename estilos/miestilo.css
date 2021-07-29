@@ -4,7 +4,9 @@ p{
     background-color: aqua;
 }
 
-
+body{
+    border-style: dotted;
+}
 ul{
     background-color: darkblue;
 }
