@@ -1,4 +1,4 @@
-# Welcome to StackEdit!
+# Información del proyecto!
 
 Hola! este es un proyecto para aprender desde los más básico a lo más avanzado en Git y Github. Utilizando **StackEdit** que es un editor de texto Markdown disponible en la web  [enter link description here](https://stackedit.io/app#)
 
