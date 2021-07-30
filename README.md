@@ -7,4 +7,5 @@ Hola! este es un proyecto para aprender desde los más básico a lo más avanzad
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero quo quibusdam nemo consequuntur, quam, asperiores
 natus debitis nam porro corporis ut id minima blanditiis distinctio quos autem! Quae, magnam ullam!
 
+creado por el increible platzi team 
 ![enter image description here](https://miro.medium.com/max/650/1*zzvdRmHGGXONZpuQ2FeqsQ.png)
