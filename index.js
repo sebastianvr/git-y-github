@@ -8,3 +8,5 @@ console.log(nombre);
 
 const master1 = 'master1'
 const master2 = 'master2'
+
+const experimental1 = 'experimental'
