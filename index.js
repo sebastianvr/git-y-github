@@ -7,3 +7,4 @@ const nombre = 'sebastian';
 console.log(nombre);
 
 const master1 = 'master1'
+const master2 = 'master2'
